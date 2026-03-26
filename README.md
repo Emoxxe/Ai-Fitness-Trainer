@@ -7,7 +7,7 @@
 
 An AI-powered web application that acts as your personal fitness trainer. It uses your webcam to track your body movements in real-time, counts your repetitions, calculates your joint angles, and provides live feedback to ensure you are doing your exercises with the correct form!
 
-🔴 **[Try the Live Web App Here!](https://ai-fitness-trainer-29na6cpwz93jfuske4j4xa.streamlit.app/)**
+🔴 **[Try the Live Web App Here!](https://ai-fitness-trainer-mgpw6cetsfekmvf954hlox.streamlit.app/)**
 
 ---
 
